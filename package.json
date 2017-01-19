@@ -15,5 +15,24 @@
   "bugs": {
     "url": "https://github.com/soress/may-project/issues"
   },
-  "homepage": "https://github.com/soress/may-project#readme"
+  "homepage": "https://github.com/soress/may-project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sftp": "^0.1.5",
+    "gulp-uglify": "^2.0.0",
+    "gulp-uncss": "^1.0.6",
+    "gulp-useref": "^3.1.2",
+    "gulp-watch": "^4.3.10",
+    "imagemin-pngquant": "^5.0.0",
+    "wiredep": "^4.0.0"
+  }
 }
