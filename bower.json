@@ -1,0 +1,10 @@
+{
+  "name": "may-project",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "soress"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/soress/may-project"
+}
