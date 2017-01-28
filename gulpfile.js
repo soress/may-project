@@ -39,8 +39,8 @@ var gulp = require('gulp'),
 
 	// less
 	gulp.task('less', function () {
-  	 gulp.src('./app/less/layout.less')
-    .pipe(less().on('error', less.logError))
+  	 gulp.src('./app/less/main.less')
+    .pipe(less())
     .pipe(prefixer('last 15 version', '> 1%', 'ie 8'), {cascade: true})
     .pipe(reload({stream: true}))    
     .pipe(gulp.dest('./app/css'));

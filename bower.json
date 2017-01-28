@@ -1,10 +1,14 @@
 {
   "name": "may-project",
-  "description": "",
-  "main": "gulpfile.js",
-  "authors": [
-    "soress"
-  ],
-  "license": "ISC",
-  "homepage": "https://github.com/soress/may-project"
+  "version": "0.01.0",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "wow": "wowjs#^1.1.2",
+    "magnific-popup": "^1.1.0",
+    "normalize-css": "normalize.css#^5.0.0",
+    "font-awesome": "fontawesome#^4.7.0",
+    "tooltipster": "^4.1.6",
+    "bourbon": "^4.2.7",
+    "modernizer": "^2.8.2"
+  }
 }
